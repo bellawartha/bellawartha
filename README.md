@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Sobre mim
-- Olá! Me chamo Isabella e atualmente estou estudando para me tornar uma desenvolvedora. Sou formada em Museologia e atualmente estou migrando de carreira. 
-- Estou em busca de oportunidades onde eu posso crescer, aprender e aplicar meus conhecimentos prévios.
+- Olá! Meu nome é Isabella e sou uma entusiasta em transição de carreira para a área de desenvolvimento. Com formação em Museologia, estou empenhada em adquirir novas habilidades como desenvolvedora.
+- Estou animada para encontrar oportunidades que me permitam crescer, aprender e aplicar meus conhecimentos prévios de forma criativa e inovadora.
 
 
 
